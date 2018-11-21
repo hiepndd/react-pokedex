@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 import PokeList from "./PokeList";
 import DetailView from "./DetailView";
 import Pokemon from "../Pokemon";
